@@ -32,5 +32,6 @@ export class ContactPage{
         await this.msgArea.fill(message)
         await this.submitBtn.click()
         
+        
     }
 }
